@@ -1,0 +1,6 @@
+LEC315.c:38:9:get_crc	24	static
+LEC315.c:52:7:LCE315_READ	32	static
+LEC315.c:111:6:LEC315_SET	24	static
+LEC315.c:159:7:respond_format	40	static
+LEC315.c:205:10:hex2int	24	static
+LEC315.c:227:6:fualt_blink	16	static
